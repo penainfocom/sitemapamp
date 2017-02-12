@@ -1,0 +1,2 @@
+# sitemapamp
+sitemap blog amp
